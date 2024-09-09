@@ -1,5 +1,5 @@
 {
-  "name": "c10",
+  "name": "store",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -18,8 +18,8 @@
     "@angular/platform-browser": "^14.1.0",
     "@angular/platform-browser-dynamic": "^14.1.0",
     "@angular/router": "^14.1.0",
-    "c10": "file:",
     "rxjs": "~7.5.0",
+    "store": "file:",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
