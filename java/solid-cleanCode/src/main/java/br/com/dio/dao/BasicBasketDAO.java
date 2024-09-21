@@ -26,4 +26,10 @@ public class BasicBasketDAO {
     public StockInfo getInfo() {
         return new StockInfo(stock.size(), stock.stream().filter(b -> b.validate().isBefore(LocalDate.now())).count());
     }
+
+    public List<BasicBasket> removeOutOfDate() {
+        var outOfDate = stock.stream().filter(b -> b.validate().isBefore(LocalDate.now())).toList();
+        stock.removeAll(outOfDate);
+        return outOfDate;
+    }
 }

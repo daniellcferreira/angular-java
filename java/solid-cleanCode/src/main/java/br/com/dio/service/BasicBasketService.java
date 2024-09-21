@@ -43,4 +43,8 @@ public class BasicBasketService {
         return dao.getInfo();
     }
 
+    public List<BasicBasket> removeOutOfDate() {
+        return dao.removeOutOfDate();
+    }
+
 }
