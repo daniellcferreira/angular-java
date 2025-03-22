@@ -1,5 +1,5 @@
 # Projeto Full Stack: Angular + Java
-<p>
+<p aling="center">
   <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=flat-square&logo=angular&logoColor=DD0031" alt="Angular">
   <img src="https://img.shields.io/badge/TypeScript-Linguagem-3178C6?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/Bootstrap-Estilização-7952B3?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/Swagger-Documentação-85EA2D?style=flat-square&logo=swagger&logoColor=85EA2D" alt="Swagger">
   <img src="https://img.shields.io/badge/JUnit-Testes-C21325?style=flat-square&logo=junit5&logoColor=C21325" alt="JUnit">
   <img src="https://img.shields.io/badge/Mockito-Testes-FFCA28?style=flat-square&logo=mockito&logoColor=FFCA28" alt="Mockito">
-</p>
 
+</p>
 
 
 
